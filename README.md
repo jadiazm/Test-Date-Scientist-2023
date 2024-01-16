@@ -1,14 +1,13 @@
 # Test-Date-Scientist-2023-SHIMOKU
 
-Este repositorio contiene la solución de la prueba técnica para la posición de Data Scientist en Shimoku. Contiene la siguiente estructura de archivos.
+This repository contains the technical test solution for the Data Scientist position at Shimoku. It includes the following file structure:
 
-1. Un notebook de jupyter llamado EDA.ipynb que contiene el análisis exploratorio de los datos y la construcción paso a paso del dataset para el entrenamiento de modelo de clasificación.
+1. A Jupyter notebook named EDA.ipynb that contains exploratory data analysis and the step-by-step construction of the dataset for classification model training.
 
-2. Los conjuntos de salida variables.csv con los datos limpios y variables_numeric.csv que contiene los mismos datos pero en formato numérico para utilizarse directamente en un modelo de clasificación.
+2. Output files variables.csv with clean data and variables_numeric.csv that contains the same data in numeric format for direct use in a classification model.
 
-3. Los archivos de partida, leads.csv y offers.csv que contienen la data sin procesar.
+3. The input files, leads.csv and offers.csv, which contain raw data.
 
-4. Un módulo de extensión de pandas con funciones para analisar datos nulos. El módulo fue sacado de los recursos del curso 'Curso de Manejo de Datos Faltantes: Detección y Exploración' de Platzi.
+4. A pandas extension module with functions for analyzing missing data. The module was taken from the resources of the 'Handling Missing Data: Detection and Exploration Course' on Platzi.
 
-5. El pdf DS Technical Test Q4-2023.pdf que contiene las instrucciones de la prueba.
-
+5. The PDF DS Technical Test Q4-2023.pdf containing the test instructions.
